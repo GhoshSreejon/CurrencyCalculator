@@ -1,7 +1,7 @@
 def converter(amount, rate):
     return amount*rate
 
-
+#forked by sreejon
 print("Currency Converter")
 
 curr1 = input("Enter the currency code that has to be converted: ")
